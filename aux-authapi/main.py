@@ -8,7 +8,7 @@ import os
 
 app = FastAPI()
 
-SECRET_KEY = "for_the_emperor"
+SECRET_KEY = "Você é gay"
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
