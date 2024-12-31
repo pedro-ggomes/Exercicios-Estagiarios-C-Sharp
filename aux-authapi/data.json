@@ -1,0 +1,173 @@
+[
+    {
+      "id": 1,
+      "username": "johndoe",
+      "email": "johndoe@example.com",
+      "profile": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "dob": "1990-01-01",
+        "avatar": "https://example.com/avatar/johndoe.jpg"
+      },
+      "address": {
+        "street": "100 Main St",
+        "city": "Metropolis",
+        "state": "NY",
+        "zip": "10001"
+      }
+    },
+    {
+      "id": 2,
+      "username": "janedoe",
+      "email": "janedoe@example.com",
+      "profile": {
+        "first_name": "Jane",
+        "last_name": "Doe",
+        "dob": "1990-05-15",
+        "avatar": "https://example.com/avatar/janedoe.jpg"
+      },
+      "address": {
+        "street": "123 Main St",
+        "city": "Metropolis",
+        "state": "NY",
+        "zip": "10001"
+      }
+    },
+    {
+      "id": 3,
+      "username": "alicewonder",
+      "email": "alicewonder@example.com",
+      "profile": {
+        "first_name": "Alice",
+        "last_name": "Wonder",
+        "dob": "1985-08-20",
+        "avatar": "https://example.com/avatar/alicewonder.jpg"
+      },
+      "address": {
+        "street": "456 Elm St",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62701"
+      }
+    },
+    {
+      "id": 4,
+      "username": "bobbuilder",
+      "email": "bobbuilder@example.com",
+      "profile": {
+        "first_name": "Bob",
+        "last_name": "Builder",
+        "dob": "1980-03-15",
+        "avatar": "https://example.com/avatar/bobbuilder.jpg"
+      },
+      "address": {
+        "street": "789 Oak St",
+        "city": "Capital City",
+        "state": "IL",
+        "zip": "62702"
+      }
+    },
+    {
+      "id": 5,
+      "username": "chrispratt",
+      "email": "chrispratt@example.com",
+      "profile": {
+        "first_name": "Chris",
+        "last_name": "Pratt",
+        "dob": "1979-06-21",
+        "avatar": "https://example.com/avatar/chrispratt.jpg"
+      },
+      "address": {
+        "street": "111 Pine St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90001"
+      }
+    },
+    {
+      "id": 6,
+      "username": "emilyclarke",
+      "email": "emilyclarke@example.com",
+      "profile": {
+        "first_name": "Emily",
+        "last_name": "Clarke",
+        "dob": "1992-12-01",
+        "avatar": "https://example.com/avatar/emilyclarke.jpg"
+      },
+      "address": {
+        "street": "222 Maple St",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "02101"
+      }
+    },
+    {
+      "id": 7,
+      "username": "michaeljordan",
+      "email": "michaeljordan@example.com",
+      "profile": {
+        "first_name": "Michael",
+        "last_name": "Jordan",
+        "dob": "1963-02-17",
+        "avatar": "https://example.com/avatar/michaeljordan.jpg"
+      },
+      "address": {
+        "street": "333 Cedar St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60601"
+      }
+    },
+    {
+      "id": 8,
+      "username": "saraconnor",
+      "email": "saraconnor@example.com",
+      "profile": {
+        "first_name": "Sara",
+        "last_name": "Connor",
+        "dob": "1987-07-19",
+        "avatar": "https://example.com/avatar/saraconnor.jpg"
+      },
+      "address": {
+        "street": "444 Birch St",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98101"
+      }
+    },
+    {
+      "id": 9,
+      "username": "brucewayne",
+      "email": "brucewayne@example.com",
+      "profile": {
+        "first_name": "Bruce",
+        "last_name": "Wayne",
+        "dob": "1975-04-17",
+        "avatar": "https://example.com/avatar/brucewayne.jpg"
+      },
+      "address": {
+        "street": "555 Gotham St",
+        "city": "Gotham",
+        "state": "NJ",
+        "zip": "07001"
+      }
+    },
+    {
+      "id": 10,
+      "username": "dianaprince",
+      "email": "dianaprince@example.com",
+      "profile": {
+        "first_name": "Diana",
+        "last_name": "Prince",
+        "dob": "1980-11-20",
+        "avatar": "https://example.com/avatar/dianaprince.jpg"
+      },
+      "address": {
+        "street": "666 Amazon St",
+        "city": "Themyscira",
+        "state": "NA",
+        "zip": "00000"
+      }
+    }
+  ]
+  

@@ -1,0 +1,17 @@
+C:\Users\pedro.silva\Desktop\Exercicios gui manoel\Consumo de API com Auth\Minha Solução\obj\Debug\net8.0\Minha Solução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.silva\Desktop\Exercicios gui manoel\Consumo de API com Auth\Minha Solução\obj\Debug\net8.0\Minha Solução.AssemblyInfoInputs.cache
+C:\Users\pedro.silva\Desktop\Exercicios gui manoel\Consumo de API com Auth\Minha Solução\obj\Debug\net8.0\Minha Solução.AssemblyInfo.cs
+C:\Users\pedro.silva\Desktop\Exercicios gui manoel\Consumo de API com Auth\Minha Solução\obj\Debug\net8.0\Minha Solução.csproj.CoreCompileInputs.cache
+C:\Users\pedro.silva\Desktop\Exercicios gui manoel\Consumo de API com Auth\Minha Solução\obj\Debug\net8.0\Minha Solução.csproj.AssemblyReference.cache
+C:\Users\pedro.silva\Desktop\Exercicios gui manoel\Consumo de API com Auth\Minha Solução\bin\Debug\net8.0\Minha Solução.exe
+C:\Users\pedro.silva\Desktop\Exercicios gui manoel\Consumo de API com Auth\Minha Solução\bin\Debug\net8.0\Minha Solução.deps.json
+C:\Users\pedro.silva\Desktop\Exercicios gui manoel\Consumo de API com Auth\Minha Solução\bin\Debug\net8.0\Minha Solução.runtimeconfig.json
+C:\Users\pedro.silva\Desktop\Exercicios gui manoel\Consumo de API com Auth\Minha Solução\bin\Debug\net8.0\Minha Solução.dll
+C:\Users\pedro.silva\Desktop\Exercicios gui manoel\Consumo de API com Auth\Minha Solução\bin\Debug\net8.0\Minha Solução.pdb
+C:\Users\pedro.silva\Desktop\Exercicios gui manoel\Consumo de API com Auth\Minha Solução\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\pedro.silva\Desktop\Exercicios gui manoel\Consumo de API com Auth\Minha Solução\obj\Debug\net8.0\Minha So.437FCDEB.Up2Date
+C:\Users\pedro.silva\Desktop\Exercicios gui manoel\Consumo de API com Auth\Minha Solução\obj\Debug\net8.0\Minha Solução.dll
+C:\Users\pedro.silva\Desktop\Exercicios gui manoel\Consumo de API com Auth\Minha Solução\obj\Debug\net8.0\refint\Minha Solução.dll
+C:\Users\pedro.silva\Desktop\Exercicios gui manoel\Consumo de API com Auth\Minha Solução\obj\Debug\net8.0\Minha Solução.pdb
+C:\Users\pedro.silva\Desktop\Exercicios gui manoel\Consumo de API com Auth\Minha Solução\obj\Debug\net8.0\Minha Solução.genruntimeconfig.cache
+C:\Users\pedro.silva\Desktop\Exercicios gui manoel\Consumo de API com Auth\Minha Solução\obj\Debug\net8.0\ref\Minha Solução.dll

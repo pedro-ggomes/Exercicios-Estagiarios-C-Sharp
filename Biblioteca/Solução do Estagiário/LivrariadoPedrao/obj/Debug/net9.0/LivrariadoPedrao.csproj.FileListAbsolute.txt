@@ -1,0 +1,14 @@
+C:\Users\guilherme.manoel\Desktop\LivrariadoPedrao\obj\Debug\net9.0\LivrariadoPedrao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.manoel\Desktop\LivrariadoPedrao\obj\Debug\net9.0\LivrariadoPedrao.AssemblyInfoInputs.cache
+C:\Users\guilherme.manoel\Desktop\LivrariadoPedrao\obj\Debug\net9.0\LivrariadoPedrao.AssemblyInfo.cs
+C:\Users\guilherme.manoel\Desktop\LivrariadoPedrao\obj\Debug\net9.0\LivrariadoPedrao.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.manoel\Desktop\LivrariadoPedrao\bin\Debug\net9.0\LivrariadoPedrao.exe
+C:\Users\guilherme.manoel\Desktop\LivrariadoPedrao\bin\Debug\net9.0\LivrariadoPedrao.deps.json
+C:\Users\guilherme.manoel\Desktop\LivrariadoPedrao\bin\Debug\net9.0\LivrariadoPedrao.runtimeconfig.json
+C:\Users\guilherme.manoel\Desktop\LivrariadoPedrao\bin\Debug\net9.0\LivrariadoPedrao.dll
+C:\Users\guilherme.manoel\Desktop\LivrariadoPedrao\bin\Debug\net9.0\LivrariadoPedrao.pdb
+C:\Users\guilherme.manoel\Desktop\LivrariadoPedrao\obj\Debug\net9.0\LivrariadoPedrao.dll
+C:\Users\guilherme.manoel\Desktop\LivrariadoPedrao\obj\Debug\net9.0\refint\LivrariadoPedrao.dll
+C:\Users\guilherme.manoel\Desktop\LivrariadoPedrao\obj\Debug\net9.0\LivrariadoPedrao.pdb
+C:\Users\guilherme.manoel\Desktop\LivrariadoPedrao\obj\Debug\net9.0\LivrariadoPedrao.genruntimeconfig.cache
+C:\Users\guilherme.manoel\Desktop\LivrariadoPedrao\obj\Debug\net9.0\ref\LivrariadoPedrao.dll
