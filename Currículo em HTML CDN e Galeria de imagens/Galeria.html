@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <title>Galeria de Imagens</title>
+    <link rel="stylesheet" href="style_galeria.css">
+</head>
+<body>
+    <h1>Minha Galeria de Imagens</h1>
+    <button id="show-gallery">Mostrar Galeria</button>
+    <!-- Poderia ser uma section -->
+    <div id="gallery" class="gallery"></div>
+
+    <script>
+        // function MostrarGaleria(){};
+        const MostrarGaleria = () => {
+            const container = document.getElementById('gallery');
+
+            const url_imagens = [
+                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbakJ_C7b2-U1_kYnshgOM1KSvt5kzgMKSQ&s',
+                'https://i.pinimg.com/236x/00/9e/98/009e98f36d3734a797f6a6de6224d951.jpg',
+                'https://i.pinimg.com/236x/63/85/1c/63851c75d37cd7a90bcd1f05f6220d13.jpg',
+                'https://pt.quizur.com/_image?href=https://img.quizur.com/f/img6402277ea9ea82.82348441.png?lastEdited=1677862793&w=600&h=600&f=webp'
+            ];
+
+            container.innerHTML = '';
+
+            url_imagens.forEach(url => {
+                const img = document.createElement('img');
+                img.src = url;
+                img.alt = 'Imagem dinâmica';
+                container.appendChild(img); 
+            });
+        };
+
+        document.getElementById('show-gallery').addEventListener('click', MostrarGaleria);
+    </script>
+
+    <h2>Página Principal</h2>
+    <a href="site.html">Voltar</a>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+C:\Users\guilherme.manoel\Desktop\Projetonivel3\obj\Debug\net9.0\Projetonivel3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.manoel\Desktop\Projetonivel3\obj\Debug\net9.0\Projetonivel3.AssemblyInfoInputs.cache
+C:\Users\guilherme.manoel\Desktop\Projetonivel3\obj\Debug\net9.0\Projetonivel3.AssemblyInfo.cs
+C:\Users\guilherme.manoel\Desktop\Projetonivel3\obj\Debug\net9.0\Projetonivel3.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.manoel\Desktop\Projetonivel3\bin\Debug\net9.0\Projetonivel3.exe
+C:\Users\guilherme.manoel\Desktop\Projetonivel3\bin\Debug\net9.0\Projetonivel3.deps.json
+C:\Users\guilherme.manoel\Desktop\Projetonivel3\bin\Debug\net9.0\Projetonivel3.runtimeconfig.json
+C:\Users\guilherme.manoel\Desktop\Projetonivel3\bin\Debug\net9.0\Projetonivel3.dll
+C:\Users\guilherme.manoel\Desktop\Projetonivel3\bin\Debug\net9.0\Projetonivel3.pdb
+C:\Users\guilherme.manoel\Desktop\Projetonivel3\obj\Debug\net9.0\Projetonivel3.dll
+C:\Users\guilherme.manoel\Desktop\Projetonivel3\obj\Debug\net9.0\refint\Projetonivel3.dll
+C:\Users\guilherme.manoel\Desktop\Projetonivel3\obj\Debug\net9.0\Projetonivel3.pdb
+C:\Users\guilherme.manoel\Desktop\Projetonivel3\obj\Debug\net9.0\Projetonivel3.genruntimeconfig.cache
+C:\Users\guilherme.manoel\Desktop\Projetonivel3\obj\Debug\net9.0\ref\Projetonivel3.dll
+C:\Users\guilherme.manoel\Desktop\Projetonivel3\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\guilherme.manoel\Desktop\Projetonivel3\obj\Debug\net9.0\Projetonivel3.csproj.AssemblyReference.cache
+C:\Users\guilherme.manoel\Desktop\Projetonivel3\obj\Debug\net9.0\Projeton.989D18AF.Up2Date

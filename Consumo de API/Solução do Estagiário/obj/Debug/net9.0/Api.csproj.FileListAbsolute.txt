@@ -1,0 +1,14 @@
+C:\Users\guilherme.manoel\Desktop\Api\obj\Debug\net9.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.manoel\Desktop\Api\obj\Debug\net9.0\Api.AssemblyInfoInputs.cache
+C:\Users\guilherme.manoel\Desktop\Api\obj\Debug\net9.0\Api.AssemblyInfo.cs
+C:\Users\guilherme.manoel\Desktop\Api\obj\Debug\net9.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.manoel\Desktop\Api\bin\Debug\net9.0\Api.exe
+C:\Users\guilherme.manoel\Desktop\Api\bin\Debug\net9.0\Api.deps.json
+C:\Users\guilherme.manoel\Desktop\Api\bin\Debug\net9.0\Api.runtimeconfig.json
+C:\Users\guilherme.manoel\Desktop\Api\bin\Debug\net9.0\Api.dll
+C:\Users\guilherme.manoel\Desktop\Api\bin\Debug\net9.0\Api.pdb
+C:\Users\guilherme.manoel\Desktop\Api\obj\Debug\net9.0\Api.dll
+C:\Users\guilherme.manoel\Desktop\Api\obj\Debug\net9.0\refint\Api.dll
+C:\Users\guilherme.manoel\Desktop\Api\obj\Debug\net9.0\Api.pdb
+C:\Users\guilherme.manoel\Desktop\Api\obj\Debug\net9.0\Api.genruntimeconfig.cache
+C:\Users\guilherme.manoel\Desktop\Api\obj\Debug\net9.0\ref\Api.dll

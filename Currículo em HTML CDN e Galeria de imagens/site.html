@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>Guilherme Manoel</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+
+</head>
+
+<body>
+    <header class="header">
+        <img src="imgs/fotogsm.jpg" alt="Foto de perfil de Guilherme Manoel" class="profile-pic">
+        <h1 class="name">Guilherme Manoel</h1>
+    </header>
+
+    <main class="content">
+        <section class="contact-info">
+            <p>Rua dos Jasmins, 89, Assunção, São Bernardo do Campo, SP. CEP: 09811-160</p>
+            <p>Celular: (11)99657-2380 ▪ E-mail: <a
+                    href="mailto:guilhermesilvamanoel5@gmail.com">guilhermesilvamanoel5@gmail.com</a></p>
+            <p>20 anos ▪ Brasileiro ▪ Solteiro</p>
+        </section>
+
+        <section class="objective">
+            <h2>Objetivo</h2>
+            <p>Procuro novas oportunidades na área de TI para colocar minhas habilidades em prática, adquirir
+                experiências e ganhar conhecimento para complementar meu repertório.</p>
+        </section>
+
+        <section class="about">
+            <h2>Apresentação</h2>
+            <p>Sou Guilherme Silva Manoel, tenho 20 anos, atualmente estudante do curso Ciências e Tecnologias e Ciência
+                da Computação na Universidade Federal do ABC (UFABC). Após a conclusão deste ciclo, pretendo aprofundar
+                meus estudos na área de Ciências Computacionais. Tenho como objetivo adquirir habilidades, experiências
+                e expandir meus conhecimentos no campo da tecnologia.
+
+                Além disso possuo grande interesse em entender o funcionamento de sistemas, desenvolvimento pessoal,
+                resolução de problemas, matemática e programação.</p>
+        </section>
+
+        <section class="experience">
+            <h2>Experiência</h2>
+            <ul>
+                <li><strong>Analista de sistemas - Jitterbit</strong> (atual - 4 meses): Responsável por monitorar e
+                    solucionar chamados via Zendesk sobre a plataforma Wevo Ipaas. Sendo assim, dentre as habilidades
+                    utilizadas se destacam o uso da linguagem de programção JavaScript, para ajustes e debug de codígos,
+                    análise de arquivos Json, conectores, API's e erros dentro da plataforma.</li>
+                <li><strong>Analista de TI (Service Desk N1) - Tecnocomp</strong> (1 ano): Responsável pela configuração
+                    de software, sistemas e aplicativos, upgrade de máquinas, resolução de problemas e esclarecimento de
+                    dúvidas de usuários em geral. Sendo utilizada a plataforma Service Desk para realizar a abertura,
+                    monitoria e resolução dos chamados.</li>
+            </ul>
+        </section>
+
+        <section class="education">
+            <h2>Formação Acadêmica</h2>
+            <ul>
+                <li>Bacharelado em Ciência e Tecnologia – Universidade Federal do ABC (UFABC) | Conclusão: 08/2025</li>
+                <li>Bacharelado em Ciência da Computação – Universidade Federal do ABC (UFABC) | Conclusão: 11/2027</li>
+                <li> Ensino Médio – Colégio Ábaco (2022)</li><li id="tempo-desde-2022"></li>
+                <script>
+
+                    const inicio2022 = moment('2022-01-01').startOf('year');
+                    const desde2022 = inicio2022.fromNow();
+                    const liElemento = document.getElementById('tempo-desde-2022');
+                    liElemento.innerText = `Tempo desde 2022: ${desde2022}`;
+
+                </script>
+            </ul>
+        </section>
+
+        <section class="languages">
+            <h2>Idiomas</h2>
+            <ul>
+                <li>Inglês Fluente – Formado na Acesschool (3 certificações do exame de Cambridge obtidas)</li>
+                <li>Espanhol Intermediário - Versatil Idiomas</li>
+            </ul>
+        </section>
+
+        <section class="courses">
+            <h2>Formação Complementar</h2>
+            <ul>
+                <li>Curso de Gestão Empresarial utilizando o sistema ERP PROTHEUS - Totalit Solutions</li>
+                <li>Curso de Excel Básico – Alura</li>
+            </ul>
+        </section>
+        <section class="other-page">
+            <a href="about.html">Projetos</a>
+        </section>
+        <section class="galeria">
+            <a href="Galeria.html">Galeria de Imagens</a>
+        </section>
+        
+    </main>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+
+</body>
+
+</html>
